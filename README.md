@@ -1,1 +1,1 @@
-# commerce_cryptocurrencies
+# commerce_crypto

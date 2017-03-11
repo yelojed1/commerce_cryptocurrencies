@@ -1,0 +1,12 @@
+commerce_payment.commerce_payment_gateway.plugin.cryptocurrency:
+  type: commerce_payment_gateway_configuration
+  mapping:
+    wallet_id:
+      type: string
+      label: 'Wallet ID'
+    main_password:
+      type: string
+      label: 'Main Password'
+    second_password:
+      type: string
+      label: 'Second Password'

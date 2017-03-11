@@ -1,0 +1,10 @@
+{
+  "name": "drupal/commerce_crypto",
+  "type": "drupal-module",
+  "description": "Provides Commerce integration for Crypto Currencies",
+  "homepage": "http://drupal.org/project/commerce_crypto",
+  "license": "GPL-2.0",
+  "require": {
+
+  }
+}
